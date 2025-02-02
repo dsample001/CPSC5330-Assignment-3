@@ -12,8 +12,8 @@ This app uses stack views to constrain the layout for different screen sizes and
 
 ## Finished iPhone Calculator App UI
 
-<img src="https://github.com/dsample001/CPSC5330-Assignment-3/blob/main/Docs/Assignment 3 - 1.png?raw=true" width="400">
+<img src="https://github.com/dsample001/CPSC5330-Assignment-3/blob/main/Docs/Assignment 3 - 1.png?raw=true" width="300">
 
 ## Finished iPad Calculator App UI
 
-<img src="https://github.com/dsample001/CPSC5330-Assignment-3/blob/main/Docs/Assignment 3 - 2.png?raw=true" width="400">
+<img src="https://github.com/dsample001/CPSC5330-Assignment-3/blob/main/Docs/Assignment 3 - 2.png?raw=true" width="500">
